@@ -1,0 +1,19 @@
+{
+  "products" : {
+    "-LK6uS9v3o7oXPJjvokj" : {
+      "model" : "Apple iPod touch 5 32Gb",
+      "price" : 8888,
+      "quantity" : 5
+    },
+    "-LK6uYJkLj7kz-0StK2V" : {
+      "model" : "Samsung Galaxy S Duos S7562",
+      "price" : 7230,
+      "quantity" : 2
+    },
+    "-LK6ut5Hvcxj1LiNyH76" : {
+      "model" : "Canon EOS 600D Kit",
+      "price" : 15659,
+      "quantity" : 4
+    }
+  }
+}
