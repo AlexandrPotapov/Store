@@ -1,2 +1,2 @@
 # Store
-Store app
+Store app on Firbase
